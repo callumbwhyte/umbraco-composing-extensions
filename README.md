@@ -26,6 +26,10 @@ To raise a new bug, create an issue on the GitHub repository. To fix a bug or ad
 
 This project is maintained by [Callum Whyte](https://callumwhyte.com/) and contributors. If you have any questions about the project please get in touch on [Twitter](https://twitter.com/callumbwhyte), or by raising an issue on GitHub.
 
+## Credits
+
+The logo uses the [Launch](https://thenounproject.com/term/launch/2217246/) icon from the [Noun Project](https://thenounproject.com) by [Adrien Coquet](https://thenounproject.com/coquet_adrien/), licensed under [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/).
+
 ## License
 
 Copyright &copy; 2021 [Callum Whyte](https://callumwhyte.com/), and other contributors
